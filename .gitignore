@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+inferpilot.db
+
+# Env
+.env
+.env.*
+web/.env.local
+
+# Node / Next
+web/node_modules/
+web/.next/
+web/out/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
